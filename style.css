@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.top-banner{
+    background-image: url(images/Side\ image.png);
+    background-repeat: no-repeat;
+}
+section{
+    padding-bottom: 150px;
+    height: 500px;
+}
