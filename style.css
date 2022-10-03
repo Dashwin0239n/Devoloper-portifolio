@@ -2,3 +2,28 @@
     margin: 10px 10px 10px 10px;
     float: left;
 }
+.div1{
+    background-color: bisque;
+    margin-right: 25rem;
+    margin-left: 35rem;
+    margin-top: 30%;
+}
+#somethind1{
+    margin-left: 40%;
+}
+#somethind2{
+    margin-left: 30px;
+}
+#somethind3{
+    margin-left: 30%;
+}
+#nav1{
+    margin-left: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#nav2{
+    margin-left: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
